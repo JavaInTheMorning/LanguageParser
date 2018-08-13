@@ -1,0 +1,35 @@
+bear
+dog
+koala
+lion
+monkey
+panda
+pig
+sheep
+apple
+banana
+cherry
+grapes
+kiwi
+lemon
+orange
+pear
+strawberry
+Watermelon
+camera
+Credit Card
+Luggage 
+Money
+airplane
+bike
+bus
+ Taxi cab
+carrot 
+Cucumber
+Eggplant
+leek 
+lettuce
+onion 
+Pepper
+Raddish
+ tomato

@@ -1,0 +1,35 @@
+medve
+kutya
+koala
+oroszlán
+majom
+pandamackó
+malac
+juh
+alma
+banán
+cseresznye
+szőlő
+kiwi
+citrom
+narancs
+körte
+eper
+Görögdinnye
+kamera
+Hitelkártya
+Poggyász
+Pénz
+repülőgép
+bicikli
+busz
+  Taxi
+sárgarépa
+Uborka
+Padlizsán
+póréhagyma
+saláta
+hagyma
+Bors
+Raddish
+  paradicsom

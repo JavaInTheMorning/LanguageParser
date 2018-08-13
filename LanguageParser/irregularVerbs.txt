@@ -1,0 +1,3 @@
+IrregularVerbs-Infinitive.txt
+IrregularVerbs-Simple-Past.txt
+IrregularVerbs-Past-Participle.txt
